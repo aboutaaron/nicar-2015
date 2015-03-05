@@ -46,3 +46,29 @@ Herzog says this analysis was more groundbreaking
 - Measures of exposure
 - Census bureau has great data on housing patterns
 
+## Nikole Hannah-Jones
+@nhannahjones
+nikole@propublica.org
+
+Segregation was not always a problem
+ProPublica tested theories, using census data to see how race/class influece segregation. Found that even affluent Black and Latino families did not live in wealthy, white neighborhoods.
+
+How do you show trends instead of independent of samples? Research. Took Hananh-Jones and 3+ researchers six months to write a graf to explain.
+
+Many of hannah-jones stories were testing theories on the racial political history in the US: desegregation orders, school redistricting, gerrymandering
+
+Majority of data came from census data, state dept. county and shapefiles from county GIS departments
+
+Data is just the beginning
+- Find it
+- Analyze it
+- Interogate it
+
+SOMEONE IS MAKING DECISIONS THAT IS MAKING THIS HAPPENING
+
+## Tim Henderson
+You can get section 8 tract from Census data. Also, talk to HUD
+
+Compare section 8 tract location against racial census tract data
+
+
